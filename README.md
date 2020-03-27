@@ -7,6 +7,7 @@
 - [Retinal OCT Images (optical coherence tomography)](https://www.kaggle.com/paultimothymooney/kermany2018)
 - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - [CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images)
+- [Brain MRI segmentation:Brain MRI images together with manual FLAIR abnormality segmentation masks](https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation)
 ## Kaggle Kernels
 - [Mask-RCNN and Medical Transfer Learning SIIM-ACR](https://www.kaggle.com/hmendonca/mask-rcnn-and-medical-transfer-learning-siim-acr)
 
