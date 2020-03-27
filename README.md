@@ -1,7 +1,5 @@
 # Deep Learining for Medical Imaging
 
-
-# Amazing Medical Kaggle
 ## Kaggle Datasets
 - [NIH Chest X-rays(Over 112,000 Chest X-ray images from more than 30,000 unique,42GB)](https://www.kaggle.com/nih-chest-xrays/data)<br>
 - [Retinal OCT Images (optical coherence tomography)](https://www.kaggle.com/paultimothymooney/kermany2018)
