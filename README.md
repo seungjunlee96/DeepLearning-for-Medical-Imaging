@@ -1,5 +1,9 @@
 # Deep Learning for Medical Imaging
-Great Materials to study Deep Learning for Medical Imaging
+Amazing Materials to study Deep Learning for Medical Imaging
+
+
+## Lecture
+- https://www.coursera.org/specializations/ai-for-medicine?
 
 
 ## Kaggle Datasets
